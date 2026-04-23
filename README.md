@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://linkedin.com/in/aashna-agarwal-676438202" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" />
-  </a>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10;" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/aashna03" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
