@@ -3,16 +3,16 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashna03&label=Profile%20views&color=0e75b6&style=flat" alt="aashna03" /> </p> -->
 
-- 🌱 I’m currently learning **C++, Flask, Jinja, PHP, NLP**
+<!-- - 🌱 I’m currently learning **C++, Python, Backend Development, ** -->
 
 - 👨‍💻 All of my projects are available at [https://aashna03.github.io/](https://aashna03.github.io/)
 
-- 💬 Ask me about **C++, Problem Solving**
+- 💬 Ask me about **Problem Solving**
 
 - 📫 How to reach me **agarwalaashna85@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p aligh="center">
+<p align="center">
 <a href="https://linkedin.com/in/aashna-agarwal-676438202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashna-agarwal-676438202" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aashna03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aashna03" height="30" width="40" /></a>
 </p>
